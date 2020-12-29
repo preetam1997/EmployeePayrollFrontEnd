@@ -5,7 +5,6 @@ import css2 from '../css/form.css'
 import css3 from '../css/button.css'
 import css4 from '../css/select.css'
 import css5 from '../css/radioContent.css'
-import PayrollForm1 from './PayrollForm1'
 import Form from './Form'
 
 
